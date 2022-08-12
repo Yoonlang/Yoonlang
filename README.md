@@ -1,8 +1,12 @@
-## About me
+## 💡 About me
 email : cdt9473@gmail.com
 blog  : velog.io/@yoonlang
 
-## Skills
+<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+
+## 🔨 Skills
 
 
 ## Problem Solving
