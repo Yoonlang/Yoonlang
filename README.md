@@ -4,13 +4,8 @@
 
 [![Yoonlang's github stats](https://github-readme-stats.vercel.app/api?username=Yoonlang)](https://github.com/Yoonlang/github-readme-stats)
 
-<!--
 ## 🔨 Skills
-### Strong at
-![JavaScript](https://img.shields.io/badge/-Javascript-%23F7DF1E)
-![React](https://img.shields.io/badge/-React-%2361DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000)
--->
+Javascript, HTML, CSS, React.js, Next.js, Styled-component, Docker
 
 ## 📚 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdt416z)](https://solved.ac/cdt416z/)
