@@ -44,6 +44,4 @@
 
 
 ## 📚 Problem Solving
-<div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cdt416z" alt="Yoonlang's Solved.ac Profile">
-</div>
+![yoonlang's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=cdt416z)
