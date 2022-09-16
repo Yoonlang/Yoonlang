@@ -6,6 +6,7 @@
 [CSS-in-CSS와 CSS-in-JS의 작동원리](https://velog.io/@yoonlang)</br>
 [redux와 recoil의 작동원리](https://velog.io/@yoonlang)</br>
 [[React] useEffect에서 비동기 작업하기](https://velog.io/@yoonlang)
+[[Next.js] SSG, SSR, CSR 알고 쓰기](https://velog.io/@yoonlang/Next.js-SSG-SSR-CSR)
 
 👨‍💻 저의 목표 중 테크 리드가 있습니다. 이를 위해 서비스의 전체 흐름을 파악하고자 합니다. 기획, 디자인, 인프라 등 프로젝트 내에서 다양한 경험을 하려 노력하고, 넓은 시야를 가지기 위해 평소 데이터 분석가, UX 디자이너, 기획자 등 다른 영역의 전문가들의 컬럼을 읽습니다.
 
