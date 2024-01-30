@@ -2,10 +2,13 @@
 
 I'm Yoonseok Choi and feel free to call me Fred. As a software engineer, I have a deep interest in frontend development. Here's a bit about me.
 
-1. **Frontend Focused**: I have a strong passion for frontend technologies, especially in UX and data visualization; charts, graphs, dashboards, and calendars. Also, I'm always eager to explore new trends in this area.
-2. **Consider Trade-offs**: I enjoy considering trade-offs in decision-making, especially when the given requirement is ambiguous and involves problem-solving.
-3. **Leadership Growth**: Actively involved in Toastmasters, I'm improving my leadership skills through proactive communication, taking on periodic roles, and engaging in public speaking.
-4. **Self-Improvement**: Always on the lookout for self-improvement opportunities. I'm keen on addressing my needs and personal pain points.
+**Frontend Focused**: I have a strong passion for frontend technologies, especially in UX and data visualization; charts, graphs, dashboards, and calendars. Also, I'm always eager to explore new trends in this area.
+
+**Consider Trade-offs**: I enjoy considering trade-offs in decision-making, especially when the given requirement is ambiguous and involves problem-solving.
+
+**Leadership Growth**: Actively involved in Toastmasters, I'm improving my leadership skills through proactive communication, taking on periodic roles, and engaging in public speaking.
+
+**Self-Improvement**: Always on the lookout for self-improvement opportunities. I'm keen on addressing my needs and personal pain points.
 
 ## 🔨 Skills
 ### Languages
