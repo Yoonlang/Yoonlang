@@ -1,3 +1,4 @@
+<!--
 ## Hi folks! 👋
 
 I'm Yoonseok Choi and feel free to call me Fred. As a software engineer, I have a deep interest in frontend development. Here's a bit about me.
@@ -10,12 +11,16 @@ I'm Yoonseok Choi and feel free to call me Fred. As a software engineer, I have 
 
 **Self-Improvement**: Always on the lookout for self-improvement opportunities. I'm keen on addressing my needs and personal pain points.
 
+
 ## 🔨 Skills
+
 ### Languages
+
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Front-End Development
+
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -24,5 +29,7 @@ I'm Yoonseok Choi and feel free to call me Fred. As a software engineer, I have 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ## 📚 Problem Solving
+-->
 ![yoonlang's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=cdt416z)
